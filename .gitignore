@@ -1,0 +1,9 @@
+*.pyc
+*.class
+lib/*.class
+lib/*.pyc
+._*
+*.log
+clean.sh
+\$py*
+lib/*.jar

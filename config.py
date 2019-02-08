@@ -1,0 +1,5 @@
+#username = "weblogic"
+#password = "weblogic234"
+url = "t3://infr0mwcf1000vs:7001"
+userConfigFile="/romo_evo/ro_intesa/sw/script/wlclient/userconfig"
+userKeyFile="/romo_evo/ro_intesa/sw/script/wlclient/.key"
